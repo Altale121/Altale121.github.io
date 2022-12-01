@@ -520,9 +520,9 @@ function draw() {
     textSize(30);
     text("JavaS. Beats", 120, 100)
     textSize(15);
-    text("Created by:", 160, 350);
+    //text("Created by:", 160, 350);
     textSize(20);
-    text("Daniel Shin and Jihoon Park", 70, 380);
+    //text("Daniel Shin and Jihoon Park", 70, 380);
     //mouseClicked();
     if (target.x >= 138 && target.x <= 233 && target.y >= 291 && target.y <= 299 && start === 0) {
       start = 1;
